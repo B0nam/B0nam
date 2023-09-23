@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ;)
 
 <!--
 **B0nam/B0nam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
